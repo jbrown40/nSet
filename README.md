@@ -1,0 +1,2 @@
+# nSet
+Implementing a class called nSet, for operations over sets of natural numbers. In this presentation, an element of a set is represented by a bit. We will use as much as possible bit-wise operations for set operations. To help you get started, we provide the following java code nSet.java which contains the constructor of the class and two methods: add(x) and find(x). The first method inserts x into the current set and the second method decides if the current set contains x.
